@@ -6,3 +6,26 @@ section {
 .mindaro {
     background-color: #fffd98;
 }
+
+.celadon {
+    background-color: #bde4a7;
+}
+
+.celadon2 {
+    background-color: #b3d2b2;
+}
+
+.powder-blue {
+    background-color: #9fbbcc;
+}
+
+.vista-blue {
+    background-color: #7a9cc6;
+}
+
+.color-panel {
+    padding: 10px;
+    width: 100px;
+    display: inline-block;
+    margin: 5px;
+}
