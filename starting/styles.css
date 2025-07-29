@@ -1,6 +1,7 @@
 section {
     border: 1px solid black;
     padding: 10px;
+    margin: 5px;
 }
 
 .mindaro {
@@ -28,4 +29,21 @@ section {
     width: 100px;
     display: inline-block;
     margin: 5px;
+}
+
+.font-panel {
+    width: 400px;
+    display: inline-block;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.inter {
+    font-family: 'Inter', sans-serif;
+}
+
+.font-label {
+    text-decoration: underline;
 }
