@@ -1,3 +1,7 @@
+* {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
 section {
     border: 1px solid black;
     padding: 10px;
@@ -32,7 +36,7 @@ section {
 }
 
 .font-panel {
-    width: 400px;
+    width: 450px;
     display: inline-block;
 }
 
@@ -40,10 +44,40 @@ section {
     font-family: 'Roboto', sans-serif;
 }
 
-.inter {
-    font-family: 'Inter', sans-serif;
+.nunito-sans {
+    font-family: 'Nunito Sans', sans-serif;
 }
 
 .font-label {
     text-decoration: underline;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.source-code-pro {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.text-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
 }
